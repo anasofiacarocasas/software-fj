@@ -1,0 +1,45 @@
+2026-05-11 11:01:52,391 - INFO - Sistema iniciado
+2026-05-11 11:02:50,622 - INFO - Cliente 1 creado correctamente
+2026-05-11 11:02:50,623 - ERROR - Nombre demasiado corto
+2026-05-11 11:02:50,623 - INFO - Servicio sala creado
+2026-05-11 11:02:50,623 - INFO - Servicio equipo creado
+2026-05-11 11:02:50,623 - INFO - Servicio asesoria creado
+2026-05-11 11:02:50,623 - INFO - Reserva 1 exitosa
+2026-05-11 11:02:50,623 - ERROR - Error procesando la reserva
+2026-05-11 11:03:39,005 - INFO - Cliente 1 creado correctamente
+2026-05-11 11:03:39,005 - ERROR - Nombre demasiado corto
+2026-05-11 11:03:39,005 - INFO - Servicio sala creado
+2026-05-11 11:03:39,005 - INFO - Servicio equipo creado
+2026-05-11 11:03:39,005 - INFO - Servicio asesoria creado
+2026-05-11 11:03:39,005 - INFO - Reserva 1 exitosa
+2026-05-11 11:03:39,006 - ERROR - Error procesando la reserva
+2026-05-11 11:05:25,808 - INFO - Operacion 1 exitosa
+2026-05-11 11:05:25,810 - ERROR - Operacion 2 fallo: Nombre demasiado corto
+2026-05-11 11:05:25,810 - INFO - Operacion 3 exitosa
+2026-05-11 11:05:25,810 - INFO - Operacion 4 exitosa
+2026-05-11 11:05:25,811 - INFO - Operacion 5 exitosa
+2026-05-11 11:05:25,811 - INFO - Operacion 6 exitosa
+2026-05-11 11:05:25,811 - INFO - Operacion 7 exitosa
+2026-05-11 11:05:25,812 - ERROR - Operacion 8 fallo: Error procesando la reserva
+2026-05-11 11:05:25,812 - INFO - Operacion 9 exitosa
+2026-05-11 11:05:25,812 - INFO - Operacion 10 exitosa
+2026-05-11 11:05:49,594 - INFO - Operacion 1 exitosa
+2026-05-11 11:05:49,594 - ERROR - Operacion 2 fallo: Nombre demasiado corto
+2026-05-11 11:05:49,595 - INFO - Operacion 3 exitosa
+2026-05-11 11:05:49,595 - INFO - Operacion 4 exitosa
+2026-05-11 11:05:49,595 - INFO - Operacion 5 exitosa
+2026-05-11 11:05:49,596 - INFO - Operacion 6 exitosa
+2026-05-11 11:05:49,596 - INFO - Operacion 7 exitosa
+2026-05-11 11:05:49,596 - ERROR - Operacion 8 fallo: Error procesando la reserva
+2026-05-11 11:05:49,597 - INFO - Operacion 9 exitosa
+2026-05-11 11:05:49,597 - INFO - Operacion 10 exitosa
+2026-05-11 11:05:53,286 - INFO - Operacion 1 exitosa
+2026-05-11 11:05:53,286 - ERROR - Operacion 2 fallo: Nombre demasiado corto
+2026-05-11 11:05:53,287 - INFO - Operacion 3 exitosa
+2026-05-11 11:05:53,287 - INFO - Operacion 4 exitosa
+2026-05-11 11:05:53,287 - INFO - Operacion 5 exitosa
+2026-05-11 11:05:53,287 - INFO - Operacion 6 exitosa
+2026-05-11 11:05:53,288 - INFO - Operacion 7 exitosa
+2026-05-11 11:05:53,288 - ERROR - Operacion 8 fallo: Error procesando la reserva
+2026-05-11 11:05:53,288 - INFO - Operacion 9 exitosa
+2026-05-11 11:05:53,289 - INFO - Operacion 10 exitosa
